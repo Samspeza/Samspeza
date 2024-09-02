@@ -3,7 +3,7 @@
 
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Samspeza&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samspeza&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samspeza&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=html,css,php,jupyter%20notebook&exclude_repo=Pacman-AI">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Samspeza&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
@@ -13,9 +13,9 @@
 
 Constant commitment to growth, operational excellence, agility in adaptations, and achieving solid results. Quick learner, team player, and responsible in all roles.
 
-Emphasis on image processing and artificial intelligence development projects, including research and academic work in iridology diagnostics through image processing. Service provider in Full Stack development with React, Node.js, TypeScript, JavaScript, C#, .NET, SQL, and MySQL.
+With a strong emphasis on image processing and artificial intelligence development projects, including research and academic work in iridology diagnostics through image processing, I bring a diverse skill set to the table. My expertise spans across full-stack development, including React, Node.js, TypeScript, JavaScript, C#, .NET, SQL, and MySQL.
 
-Currently working as a Full Stack Developer at Mello Consultoria Empresarial and Inovando Sistemas, focusing on the creation of management and control systems.
+I am currently working as a Full Stack Developer at Mello Consultoria Empresarial and Inovando Sistemas. In these roles, I focus on the creation and optimization of management and control systems, as well as the development of comprehensive e-commerce solutions. My responsibilities also include designing and implementing ERP systems to streamline business operations, enhance efficiency, and drive growth. My experience in these areas enables me to deliver robust, scalable solutions that meet the complex needs of modern businesses.
 
 
 ## Tecnologias e Linguagens
