@@ -9,6 +9,7 @@ Whether I'm optimizing ERP systems, developing with React, Node.js, or diving in
 🎓 Education
 
     Master's in Computer Science
+    MBA in Software Engineering
     Postgraduate in Artificial Intelligence and Machine Learning
     Bachelor's in Computer Science
 
