@@ -2,22 +2,28 @@
 
 I'm Samantha, but you can call me Samspeza!
 
-I am a passionate Computer Scientist and Full Stack Developer, specializing in Artificial Intelligence and Image Processing. Currently, I work at Mello Consultoria Empresarial and Inovando Sistemas, where I contribute to building scalable management systems and end-to-end e-commerce solutions. I love tackling challenges in AI, machine learning, and image diagnostics.
+I am a Computer Scientist and Full Stack Developer focused on building scalable systems, process automation, and intelligent solutions. I work at Mello Consultoria Empresarial and Inovando Sistemas, developing management systems, ERP solutions, and end-to-end applications.
 
-Whether I'm optimizing ERP systems, developing with React, Node.js, or diving into AI model development, I'm always learning and looking for new ways to make an impact.
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samspeza&theme=github_dark" alt="Profile Details" /> </p>
+I enjoy working with AI, image processing, system automation, and designing efficient workflows that simplify and optimize business processes.
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samspeza&theme=github_dark" alt="Profile Details" />
+</p>
+
 🎓 Education
 
-    Master's in Computer Science
-    MBA in Software Engineering
-    Postgraduate in Artificial Intelligence and Machine Learning
-    Bachelor's in Computer Science
+* Master's in Computer Science
+* MBA in Software Engineering
+* Postgraduate in Artificial Intelligence and Machine Learning
+* Bachelor's in Computer Science
 
 🌱 My Current Focus
 
-    Full Stack Development: Building powerful applications using React, Node.js, C#, and Angular.
-    Artificial Intelligence: Exploring AI and Machine Learning for problem-solving in various domains, including healthcare and diagnostics.
-    Image Processing: Specializing in AI-driven image processing for precise data extraction and analysis.
+* **Full Stack Development:** Building applications with React, Node.js, TypeScript, C#, .NET, Angular, and Windows Forms.
+* **Process Automation:** Automating repetitive processes and business workflows to improve efficiency and reduce manual tasks.
+* **System & Workflow Management:** Designing control flows, integrations, and management systems for business operations.
+* **Artificial Intelligence:** Exploring AI and Machine Learning for problem-solving in different domains.
+* **Image Processing:** Developing AI-driven solutions for image analysis and data extraction.
 
 🚀 Technologies & Tools
 
@@ -32,6 +38,7 @@ Whether I'm optimizing ERP systems, developing with React, Node.js, or diving in
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Windows_Forms-512BD4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Forms">
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -48,16 +55,20 @@ Whether I'm optimizing ERP systems, developing with React, Node.js, or diving in
 
 🎯 Key Skills
 
-    Full Stack Development (React, Node.js, TypeScript, C#, Angular)
-    Image Processing (AI-driven analysis and diagnostics)
-    Artificial Intelligence & Machine Learning (AI model development, data science)
-    Database Design & Optimization (SQL, MySQL, NoSQL)
-    System Architecture & Design (Building scalable, maintainable solutions)
-    ERP & E-commerce Solutions (Building innovative tools to streamline business processes)
+* Full Stack Development
+* Process Automation & Workflow Management
+* System & ERP Development
+* Windows Forms Applications
+* Artificial Intelligence & Machine Learning
+* Image Processing & Computer Vision
+* Database Design & Optimization
+* System Architecture & Integration
+* Business Process Optimization
+* E-commerce Solutions
 
 🌍 Let's Connect
 
-    LinkedIn: Samantha Spezamiglio
-    Email: sanvic77@gmail.com
+* LinkedIn: Samantha Spezamiglio
+* Email: [sanvic77@gmail.com](mailto:sanvic77@gmail.com)
 
 Feel free to reach out if you're interested in collaboration or just want to chat about tech! 😊
